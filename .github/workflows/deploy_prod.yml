@@ -1,7 +1,7 @@
 name: Vercel Production Deployment
 env:
-  VERCEL_ORG_ID: "prj_lhqpET2X2sqybpvzYL0Mar9Jy8Mp"
-  VERCEL_PROJECT_ID: "team_qOWR6d1Mv6mSE3NdFZURlGks"
+  VERCEL_ORG_ID: "team_lTWagtW0gJkJ9FyemmePR3Wi"
+  VERCEL_PROJECT_ID: "prj_q3HGSr74qlEcBhihLep6Qalpc1eO"
 on:
   push:
     branches:
